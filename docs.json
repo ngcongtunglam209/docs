@@ -12,14 +12,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "anchor": "Máy chủ Hỗ trợ",
+          "icon": "question",
+          "color": {
+            "light": "#FB7185",
+            "dark": "#FB7185"
+          },
+          "href": "https://discord.gg/ukx2fn5Pu9"
         }
       ]
     },
