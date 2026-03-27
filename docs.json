@@ -90,5 +90,11 @@
       "discord": "https://discord.gg/ukx2fn5Pu9",
       "github": "https://github.com/ngcongtunglam209"
     }
+  },
+  "background": {
+    "decoration": "gradient"
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
