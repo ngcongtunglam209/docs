@@ -60,7 +60,7 @@
     }
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "grid"
   },
   "appearance": {
     "default": "dark"
